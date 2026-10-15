@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Orbit Studio",
+      "hasCanvas": false,
+      "bodyTextLen": 189,
+      "bodyTextHash": "b4c1bc6ded7d3bcc3875f9464d8a686db99fe0fc80ef2c4715ea555ec1a5b7e8",
+      "bodyTextPrefix": "Canvas Add a screenshot to inspect it. Import one, or open a stu",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Orbit Studio",
+      "hasCanvas": false,
+      "bodyTextLen": 189,
+      "bodyTextHash": "b4c1bc6ded7d3bcc3875f9464d8a686db99fe0fc80ef2c4715ea555ec1a5b7e8",
+      "bodyTextPrefix": "Canvas Add a screenshot to inspect it. Import one, or open a stu",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
