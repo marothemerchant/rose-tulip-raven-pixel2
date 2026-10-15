@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Orbit Studio",
+    "slug": "orbit-studio",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "scheme": "orbitstudio",
+    "userInterfaceStyle": "dark",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.marothemerchant.orbitstudio",
+      "infoPlist": {
+        "NSPhotoLibraryUsageDescription": "Orbit Studio uses your photo library so you can inspect screenshots and turn them into interface code."
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#111012",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      },
+      "package": "com.marothemerchant.orbitstudio"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-image-picker"
+    ]
+  }
+}
