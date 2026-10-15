@@ -28,6 +28,17 @@
     },
     "plugins": [
       "expo-image-picker"
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "bf925864-13bb-4d4e-9809-9343d2a57cd9"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/bf925864-13bb-4d4e-9809-9343d2a57cd9"
+    }
   }
 }
